@@ -72,6 +72,13 @@ Lab5/
 !git clone https://github.com/CaoTienTrung/DS200-BigData-Lab4
 ```
 
+```
+# Download dataset
+python src\download_dataset.py\
+    --dataset_name mohamedhanyyy/chest-ctscan-images\
+    --save_dir "Dataset"
+```
+
 ### 1. Training mode
 #### 1. Open a terminal and run Producer
 ```
